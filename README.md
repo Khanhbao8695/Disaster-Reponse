@@ -1,6 +1,8 @@
 # Disaster Response Pipeline Project
 Author by Bao Khanh Nguyen
 
+[My Github Repo](https://github.com/Khanhbao8695/Disaster-Reponse)
+
 ## Table of Contents
 - [Disaster Response Pipeline](#disaster-response-pipeline)
   - [Table of Contents](#table-of-contents)
@@ -97,3 +99,6 @@ The project includes a web app where an emergency worker can input a new message
 3. Run the web app with: `python run.py`
 
 4. Click the `PREVIEW` button to open the homepage
+
+### Acknowledgements:
+Thanks to Udacity for the code and template for the web app.
